@@ -3,7 +3,7 @@ const DB_PASSWORD = "admin123456";
 const DB_HOST = "web-personal.8byku8i.mongodb.net"; // la ip de nuestra base de datos
 
 const API_VERSION = "v1";
-const IP_SERVER = "localhost";
+const IP_SERVER = "192.168.0.7";
 
 const JWT_SECRET_KEY = "Gr7jajaja"; //aca pongo lo que quiera
 

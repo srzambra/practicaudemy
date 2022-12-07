@@ -3,7 +3,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const cors = require("cors"); // es un paquete de node para poder usar el http
-const { API_VERSION, IP_SERVER } = require("./constants");
+const { API_VERSION } = require("./constants");
 
 const app = express();
 
